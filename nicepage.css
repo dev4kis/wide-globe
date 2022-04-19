@@ -36715,6 +36715,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-btn-1 {
   background-image: none;
   font-size: 3.75rem;
+  margin-left: auto;
   padding: 0;
 }
 
@@ -36770,12 +36771,12 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 120px;
+  min-height: 81px;
 }
 
 .u-footer .u-text-1 {
   width: 417px;
-  margin: 49px auto;
+  margin: 15px auto 0;
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
